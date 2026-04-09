@@ -3,7 +3,7 @@
 ## ...sorry, *Fortran Going on Forty
 (noun): _matt's Mahler 5(?)_
 > When he was twenty-seven  
-> My granddad fought in Vietnam*  
+> My granddad fought in Vietnam  
 > When I was twenty-seven  
 > I built a birdhouse with my mom  
 >
@@ -36,7 +36,4 @@ I'm just putting all my lil fortran projects in here because submodules suck (tg
 > ...an unusual thing for me...  
 > ...and I didn’t want any cheese.   
 
-
-\* not that we, or any other 'power' belonged there, right?  
-_Sapient sat._
 
